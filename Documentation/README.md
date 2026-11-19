@@ -1,19 +1,23 @@
 # HGT Ableton Extensions — Documentation
 
-Zentrale Quellen- und Herkunftsdokumentation für die drei HGT-Ableton-Extensions:
+Central source and attribution documentation for the three HGT Ableton Extensions:
 
-- Genre Converter — Version 9.5.4
-- Genre Remap — Version 2.0.3
-- Drum Construction Kit — Version 0.5.0
+- **Genre Converter** — Version 9.5.4
+- **Genre Remap** — Version 2.0.3
+- **Drum Construction Kit** — Version 0.5.0
 
-## Sprache / Language
+## Language
 
-- [Dokumentation auf Deutsch](SOURCES_DE.md)
 - [Documentation in English](SOURCES.md)
+- [Dokumentation auf Deutsch](SOURCES_DE.md)
 
-Diese Dokumentation beschreibt musikalische und technische Referenzen sowie die Herkunft der projektbezogenen visuellen und Audio-Bestandteile. Sie ersetzt keine Lizenzdateien oder Drittanbieter-Lizenztexte, die einem konkreten Release beiliegen müssen.
+## About this documentation
 
-This documentation records musical and technical references and the provenance of project-specific visual and audio assets. It does not replace licence files or third-party licence texts that must accompany a particular release.
+This documentation records the musical and technical references used during development, as well as the origin of project-specific visual and audio assets.
+
+It provides transparency about the materials and references associated with the three extensions.
+
+This documentation does not replace licence files or third-party licence notices that may need to accompany individual releases.
 
 ---
 
