@@ -159,8 +159,8 @@ were created by HGT from performances of a virtual drum instrument.
 -   **Preset:** `tightprog`
 -   **Recording and processing environment:** Ableton Live
 -   **Production process:** The instrument output was recorded in
-    Ableton Live, processed, and rendered/exported as MP3 audio files.
--   **Recorded asset format:** MP3, 320 kbit/s for the documented asset
+    Ableton Live, processed, and rendered/exported as WAV audio files.
+-   **Recorded asset format:** converted as MP3, 320 kbit/s for the documented asset
     set.
 
 These files are project-produced audio renderings of EZdrummer playback.
