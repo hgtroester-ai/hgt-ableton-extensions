@@ -32,7 +32,7 @@ Create complete drum arrangements with genre-specific grooves, drummer profiles,
 
 Transform existing MIDI drum patterns into different musical styles with adjustable groove, variation and performance settings.
 
-[View Project & Downloads – Genre Remap](#)
+[View Project & Downloads – Genre Remap](https://github.com/hgtroester-ai/genre-remap)
 
 ---
 
@@ -44,7 +44,7 @@ Transform existing MIDI drum patterns into different musical styles with adjusta
 
 Create genre-specific drum grooves, variations, fills and complete musical arrangements.
 
-[View Project & Downloads – Genre Converter](#)
+[View Project & Downloads – Genre Converter](https://github.com/hgtroester-ai/genre-converter)
 
 ---
 
