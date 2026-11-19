@@ -167,8 +167,8 @@ wurden von HGT mithilfe eines virtuellen Schlagzeuginstruments erstellt.
 -   **Aufnahme- und Bearbeitungsumgebung:** Ableton Live
 -   **Herstellungsprozess:** Die Audioausgabe des Instruments wurde in
     Ableton Live aufgenommen, bearbeitet und anschließend als
-    MP3-Dateien gerendert/exportiert.
--   **Dateiformat:** MP3 mit 320 kbit/s für den dokumentierten
+    wav Datei gerendert/exportiert.
+-   **Dateiformat:** umgewandelt als MP3 mit 320 kbit/s für den dokumentierten
     Asset-Satz.
 
 Bei diesen Dateien handelt es sich um im Projekt erzeugte
