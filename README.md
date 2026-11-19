@@ -52,14 +52,17 @@ Create genre-specific drum grooves and musical arrangements.
 
 ---
 
-## Compatibility
+## Compatibility & Technology
 
 Developed for Ableton Live.
+
+Requires Ableton Live 12.4.5 or later.
+
+Built with the Ableton Live JavaScript SDK.
 
 Currently testing with Ableton Live 13 Beta.
 
 Compatibility may vary depending on the Ableton Live version.
-
 ---
 
 ## Downloads
