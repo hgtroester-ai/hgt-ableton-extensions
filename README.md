@@ -1,13 +1,10 @@
-# hgt-ableton-extensions
-Three creative Ableton Live Extensions by HGT - Drum Construction Kit, Genre Remap and Genre Converter
-
 # HGT – Ableton Extensions
 
 ### Creative Tools for Ableton Live
 
-Welcome to HGT Ableton Extensions.
+**Three extensions. More creative possibilities. One vision for music.**
 
-Three independent creative tools designed to expand MIDI drum programming, groove creation and musical expression in Ableton Live.
+Independent tools for creative music production with Ableton Live.
 
 **Developed by HGT · Supported with AI**
 
@@ -15,65 +12,60 @@ Three independent creative tools designed to expand MIDI drum programming, groov
 
 ## Our Extensions
 
-### 1. Drum Construction Kit
+### 01 · Drum Construction Kit
 
-A creative drum construction environment featuring:
+<img src="drumconstructionkit_small.png" width="320" alt="Drum Construction Kit">
 
-- Genre-specific drum patterns
-- Drummer Profiles and Style Engine
-- Fill and Variation Manager
-- Solo Engine
-- Song Section editing and arrangement tools
+**Build your drum arrangements. Shape your drummer. Create your sound.**
 
-**Download:** Coming soon
+Create complete drum arrangements with genre-specific grooves, drummer profiles, fills, variations and individual song sections.
 
-### 2. Genre Remap
+[View Project & Downloads – Drum Construction Kit](https://github.com/hgtroester-ai/drum-construction-kit)
 
-Transform existing MIDI drum patterns into different musical genres.
+---
 
-- Genre-based MIDI remapping
-- Groove and Performance Feel controls
-- Preview and audition
-- Adjustable variations and intensity
+### 02 · Genre Remap
 
-**Download:** Coming soon
+<img src="genreremap_small.png" width="320" alt="Genre Remap">
 
-### 3. Genre Converter
+**Transform your grooves. Explore new musical directions.**
 
-Create genre-specific drum grooves and musical arrangements.
+Transform existing MIDI drum patterns into different musical styles with adjustable groove, variation and performance settings.
 
-- Multiple music genres
-- Intelligent groove variations
-- Fills and song sections
-- Song Dramaturgy
-- Performance controls
+[View Project & Downloads – Genre Remap](#)
 
-**Download:** Coming soon
+---
+
+### 03 · Genre Converter
+
+<img src="genreconverter_small.png" width="320" alt="Genre Converter">
+
+**One groove. Different genres. New possibilities.**
+
+Create genre-specific drum grooves, variations, fills and complete musical arrangements.
+
+[View Project & Downloads – Genre Converter](#)
 
 ---
 
 ## Compatibility & Technology
 
-Developed for Ableton Live.
+- Requires Ableton Live 12.4.5 or later.
+- Built with the Ableton Live JavaScript SDK.
+- Currently testing with Ableton Live 13 Beta.
 
-Requires Ableton Live 12.4.5 or later.
-
-Built with the Ableton Live JavaScript SDK.
-
-Currently testing with Ableton Live 13 Beta.
-
-Compatibility may vary depending on the Ableton Live version.
 ---
 
-## Downloads
+## Downloads & Releases
 
-Each extension will provide:
+Each extension has its own project page and release history.
 
-- Ready-to-install Ableton Extension (.ablx)
-- Complete source code (.zip)
+Available downloads:
+
+- Ready-to-install Ableton Extension (`.ablx`)
+- Complete source code (`.zip`)
 - Version information and release notes
-
-Visit the individual project releases for downloads.
+- Installation instructions
 
 ---
 
@@ -81,8 +73,8 @@ Visit the individual project releases for downloads.
 
 **The only good system is a sound system.**
 
-Music connects people.
+**Music connects people.**
 
-Independent development, creative ideas and a shared passion for music.
+Independent development and creative tools shared with the music community.
 
-**HGT – Developed with passion. Shared with the community.**
+Free to use. Community supported.
