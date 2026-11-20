@@ -4,7 +4,7 @@ Central source, sound-asset and attribution documentation for the three HGT Able
 
 ## Current releases
 
-- [Drum Construction Kit 0.7.0](https://github.com/hgtroester-ai/drum-construction-kit)
+- [Drum Construction Kit 0.8.0](https://github.com/hgtroester-ai/drum-construction-kit)
 - [Genre Remap 3.3.0](https://github.com/hgtroester-ai/genre-remap)
 - [Genre Converter 9.6.2](https://github.com/hgtroester-ai/genre-converter)
 
