@@ -23,6 +23,16 @@ No Toontrack/EZdrummer audio recordings, samples, presets or software are includ
 
 The HGT logos and visual elements are original HGT artwork. Their geometric visual language is inspired by Piet Mondrian; they are not reproductions of Mondrian artworks.
 
+## Use and Responsibility
+
+The HGT Ableton Extensions are developed on a voluntary basis and provided free of charge.
+
+They are developed and tested with care, but errors or compatibility issues cannot be completely ruled out. Use is at your own responsibility.
+
+Please back up your Ableton projects and related files regularly, especially before installing or updating an extension.
+
+No guarantee of error-free or uninterrupted operation is provided. Liability for damages or data loss is excluded to the extent permitted by applicable law. Mandatory statutory rights remain unaffected.
+
 ## Important licensing note
 
 Each extension contains its own project license and third-party notices. The project-specific HGT license applies only to material HGT owns or controls. It does not replace or change third-party licenses, including the CC0 dedication for the identified Phazite sound assets or Ableton's Extensions SDK terms.
