@@ -1,0 +1,544 @@
+{
+  "schema_version": "1.0",
+  "specification": "HGT GM MIDI Mapping",
+  "owner": "HGT - Hans-Georg Troester",
+  "scope": [
+    "Genre Converter",
+    "Genre Remap",
+    "Drum Construction Kit"
+  ],
+  "standard_basis": "General MIDI Level 1 percussion key map",
+  "midi": {
+    "percussion_channel": 10,
+    "channel_fixed": true,
+    "raw_status_channel_index": 9,
+    "octave_display_convention": "C1 = MIDI note 36",
+    "note_range": {
+      "min": 35,
+      "max": 81
+    },
+    "velocity": {
+      "min_note_on": 1,
+      "max": 127,
+      "note_on_velocity_zero_means_note_off": true
+    }
+  },
+  "standard_layout": [
+    {
+      "slot": 1,
+      "id": "kick",
+      "display_name": "Kick",
+      "gm_name": "Bass Drum 1",
+      "note": 36,
+      "octave": "C1"
+    },
+    {
+      "slot": 2,
+      "id": "snare",
+      "display_name": "Snare",
+      "gm_name": "Acoustic Snare",
+      "note": 38,
+      "octave": "D1"
+    },
+    {
+      "slot": 3,
+      "id": "rim_side_stick",
+      "display_name": "Rim / Side Stick",
+      "gm_name": "Side Stick",
+      "note": 37,
+      "octave": "C#1"
+    },
+    {
+      "slot": 4,
+      "id": "high_tom",
+      "display_name": "High Tom",
+      "gm_name": "Hi-Mid Tom",
+      "note": 48,
+      "octave": "C2"
+    },
+    {
+      "slot": 5,
+      "id": "mid_tom",
+      "display_name": "Mid Tom",
+      "gm_name": "Low Tom",
+      "note": 45,
+      "octave": "A1"
+    },
+    {
+      "slot": 6,
+      "id": "floor_tom",
+      "display_name": "Floor Tom",
+      "gm_name": "Low Floor Tom",
+      "note": 41,
+      "octave": "F1"
+    },
+    {
+      "slot": 7,
+      "id": "closed_hihat",
+      "display_name": "Closed Hi-Hat",
+      "gm_name": "Closed Hi-Hat",
+      "note": 42,
+      "octave": "F#1"
+    },
+    {
+      "slot": 8,
+      "id": "open_hihat",
+      "display_name": "Open Hi-Hat",
+      "gm_name": "Open Hi-Hat",
+      "note": 46,
+      "octave": "A#1"
+    },
+    {
+      "slot": 9,
+      "id": "crash",
+      "display_name": "Crash",
+      "gm_name": "Crash Cymbal 1",
+      "note": 49,
+      "octave": "C#2"
+    },
+    {
+      "slot": 10,
+      "id": "ride",
+      "display_name": "Ride",
+      "gm_name": "Ride Cymbal 1",
+      "note": 51,
+      "octave": "D#2"
+    }
+  ],
+  "gm_percussion": [
+    {
+      "note": 35,
+      "octave": "B0",
+      "name": "Acoustic Bass Drum"
+    },
+    {
+      "note": 36,
+      "octave": "C1",
+      "name": "Bass Drum 1"
+    },
+    {
+      "note": 37,
+      "octave": "C#1",
+      "name": "Side Stick"
+    },
+    {
+      "note": 38,
+      "octave": "D1",
+      "name": "Acoustic Snare"
+    },
+    {
+      "note": 39,
+      "octave": "D#1",
+      "name": "Hand Clap"
+    },
+    {
+      "note": 40,
+      "octave": "E1",
+      "name": "Electric Snare"
+    },
+    {
+      "note": 41,
+      "octave": "F1",
+      "name": "Low Floor Tom"
+    },
+    {
+      "note": 42,
+      "octave": "F#1",
+      "name": "Closed Hi-Hat"
+    },
+    {
+      "note": 43,
+      "octave": "G1",
+      "name": "High Floor Tom"
+    },
+    {
+      "note": 44,
+      "octave": "G#1",
+      "name": "Pedal Hi-Hat"
+    },
+    {
+      "note": 45,
+      "octave": "A1",
+      "name": "Low Tom"
+    },
+    {
+      "note": 46,
+      "octave": "A#1",
+      "name": "Open Hi-Hat"
+    },
+    {
+      "note": 47,
+      "octave": "B1",
+      "name": "Low-Mid Tom"
+    },
+    {
+      "note": 48,
+      "octave": "C2",
+      "name": "Hi-Mid Tom"
+    },
+    {
+      "note": 49,
+      "octave": "C#2",
+      "name": "Crash Cymbal 1"
+    },
+    {
+      "note": 50,
+      "octave": "D2",
+      "name": "High Tom"
+    },
+    {
+      "note": 51,
+      "octave": "D#2",
+      "name": "Ride Cymbal 1"
+    },
+    {
+      "note": 52,
+      "octave": "E2",
+      "name": "Chinese Cymbal"
+    },
+    {
+      "note": 53,
+      "octave": "F2",
+      "name": "Ride Bell"
+    },
+    {
+      "note": 54,
+      "octave": "F#2",
+      "name": "Tambourine"
+    },
+    {
+      "note": 55,
+      "octave": "G2",
+      "name": "Splash Cymbal"
+    },
+    {
+      "note": 56,
+      "octave": "G#2",
+      "name": "Cowbell"
+    },
+    {
+      "note": 57,
+      "octave": "A2",
+      "name": "Crash Cymbal 2"
+    },
+    {
+      "note": 58,
+      "octave": "A#2",
+      "name": "Vibraslap"
+    },
+    {
+      "note": 59,
+      "octave": "B2",
+      "name": "Ride Cymbal 2"
+    },
+    {
+      "note": 60,
+      "octave": "C3",
+      "name": "Hi Bongo"
+    },
+    {
+      "note": 61,
+      "octave": "C#3",
+      "name": "Low Bongo"
+    },
+    {
+      "note": 62,
+      "octave": "D3",
+      "name": "Mute Hi Conga"
+    },
+    {
+      "note": 63,
+      "octave": "D#3",
+      "name": "Open Hi Conga"
+    },
+    {
+      "note": 64,
+      "octave": "E3",
+      "name": "Low Conga"
+    },
+    {
+      "note": 65,
+      "octave": "F3",
+      "name": "High Timbale"
+    },
+    {
+      "note": 66,
+      "octave": "F#3",
+      "name": "Low Timbale"
+    },
+    {
+      "note": 67,
+      "octave": "G3",
+      "name": "High Agogo"
+    },
+    {
+      "note": 68,
+      "octave": "G#3",
+      "name": "Low Agogo"
+    },
+    {
+      "note": 69,
+      "octave": "A3",
+      "name": "Cabasa"
+    },
+    {
+      "note": 70,
+      "octave": "A#3",
+      "name": "Maracas"
+    },
+    {
+      "note": 71,
+      "octave": "B3",
+      "name": "Short Whistle"
+    },
+    {
+      "note": 72,
+      "octave": "C4",
+      "name": "Long Whistle"
+    },
+    {
+      "note": 73,
+      "octave": "C#4",
+      "name": "Short Guiro"
+    },
+    {
+      "note": 74,
+      "octave": "D4",
+      "name": "Long Guiro"
+    },
+    {
+      "note": 75,
+      "octave": "D#4",
+      "name": "Claves"
+    },
+    {
+      "note": 76,
+      "octave": "E4",
+      "name": "Hi Wood Block"
+    },
+    {
+      "note": 77,
+      "octave": "F4",
+      "name": "Low Wood Block"
+    },
+    {
+      "note": 78,
+      "octave": "F#4",
+      "name": "Mute Cuica"
+    },
+    {
+      "note": 79,
+      "octave": "G4",
+      "name": "Open Cuica"
+    },
+    {
+      "note": 80,
+      "octave": "G#4",
+      "name": "Mute Triangle"
+    },
+    {
+      "note": 81,
+      "octave": "A4",
+      "name": "Open Triangle"
+    }
+  ],
+  "hihat_choke": {
+    "enabled_where_supported": true,
+    "open_hihat_note": 46,
+    "choke_trigger_notes": [
+      42,
+      44
+    ],
+    "implementation_note": "Requires choke-group or equivalent behavior in the target instrument/device."
+  },
+  "hgt_global_cc": [
+    {
+      "cc": 20,
+      "id": "performance_feel",
+      "name": "Performance Feel",
+      "type": "continuous",
+      "value_min": 0,
+      "value_max": 127,
+      "scope": "global"
+    },
+    {
+      "cc": 21,
+      "id": "swing",
+      "name": "Swing",
+      "type": "continuous",
+      "value_min": 0,
+      "value_max": 127,
+      "scope": "global",
+      "zero": "minimum/no added swing",
+      "max": "maximum configured swing"
+    },
+    {
+      "cc": 22,
+      "id": "fill_intensity",
+      "name": "Fill Intensity",
+      "type": "continuous",
+      "value_min": 0,
+      "value_max": 127,
+      "scope": "global"
+    },
+    {
+      "cc": 23,
+      "id": "groove_variation",
+      "name": "Groove Variation",
+      "type": "continuous",
+      "value_min": 0,
+      "value_max": 127,
+      "scope": "global"
+    },
+    {
+      "cc": 24,
+      "id": "verse_variation",
+      "name": "Verse Variation",
+      "type": "continuous",
+      "value_min": 0,
+      "value_max": 127,
+      "scope": "global"
+    },
+    {
+      "cc": 25,
+      "id": "song_dramaturgy",
+      "name": "Song Dramaturgy",
+      "type": "continuous",
+      "value_min": 0,
+      "value_max": 127,
+      "scope": "global"
+    },
+    {
+      "cc": 26,
+      "id": "repetition_pass",
+      "name": "Repetition / Pass",
+      "type": "discrete",
+      "value_min": 0,
+      "value_max": 127,
+      "scope": "global",
+      "enum": {
+        "0": "First Pass",
+        "1": "Second Pass",
+        "2": "Final Pass",
+        "3": "Repeat/Loop"
+      },
+      "reserved_values": {
+        "min": 4,
+        "max": 127,
+        "behavior": "ignore"
+      }
+    },
+    {
+      "cc": 27,
+      "id": "drummer_style_influence",
+      "name": "Drummer Style Influence",
+      "type": "continuous",
+      "value_min": 0,
+      "value_max": 127,
+      "scope": "global"
+    },
+    {
+      "cc": 28,
+      "id": "preview_volume",
+      "name": "Preview Volume",
+      "type": "continuous",
+      "value_min": 0,
+      "value_max": 127,
+      "scope": "global",
+      "affects_generated_midi_velocity": false
+    },
+    {
+      "cc": 29,
+      "id": "master_variation",
+      "name": "Master Variation",
+      "type": "continuous",
+      "value_min": 0,
+      "value_max": 127,
+      "scope": "global"
+    }
+  ],
+  "genre_visibility_profiles": {
+    "classic_rock": [
+      40,
+      44,
+      54,
+      57
+    ],
+    "blues_rock": [
+      44,
+      51,
+      53,
+      54
+    ],
+    "alternative_rock": [
+      40,
+      50,
+      52,
+      55,
+      57
+    ],
+    "punk": [
+      40,
+      43,
+      47,
+      50,
+      55,
+      57
+    ],
+    "funk": [
+      39,
+      40,
+      44,
+      54,
+      56,
+      60,
+      61,
+      62,
+      63,
+      64,
+      69,
+      70
+    ],
+    "reggae": [
+      37,
+      39,
+      44,
+      54,
+      56,
+      60,
+      61,
+      62,
+      63,
+      64,
+      69,
+      70
+    ],
+    "ska": [
+      39,
+      44,
+      54,
+      56,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "hip_hop": [
+      35,
+      39,
+      40,
+      54,
+      56,
+      69,
+      70
+    ]
+  },
+  "conformance": {
+    "preserve_hidden_or_unknown_supported_notes": true,
+    "do_not_renumber_notes": true,
+    "do_not_transpose_for_octave_label_differences": true,
+    "third_party_maps_require_explicit_translation_profiles": true
+  }
+}
