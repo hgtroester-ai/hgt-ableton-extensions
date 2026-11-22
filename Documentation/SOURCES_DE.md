@@ -63,7 +63,17 @@ Es handelt sich um projektbezogene Lizenzen, nicht um eine pauschale Lizenz für
 
 Die bereitgestellten Source-Pakete dokumentieren Node.js und projektspezifische Build- und Testwerkzeuge, darunter je nach Projekt TypeScript und esbuild. Diese Werkzeuge dienen der Entwicklung und werden nicht als Audio-Material mitgeliefert. Es gelten die jeweiligen Upstream-Lizenzen.
 
-## 8. Weitergabe und Änderungen
+## 8. Nutzung und Eigenverantwortung
+
+Die HGT Ableton Extensions werden ehrenamtlich entwickelt und kostenlos zur Verfügung gestellt.
+
+Sie werden mit Sorgfalt entwickelt und getestet. Dennoch lassen sich Fehler oder Inkompatibilitäten nicht vollständig ausschließen. Die Nutzung erfolgt in eigener Verantwortung.
+
+Bitte sichere deine Ableton-Projekte und zugehörigen Dateien regelmäßig, insbesondere vor der Installation oder Aktualisierung einer Extension.
+
+Eine Garantie für einen fehlerfreien oder unterbrechungsfreien Betrieb wird nicht übernommen. Die Haftung für Schäden oder Datenverluste ist im gesetzlich zulässigen Umfang ausgeschlossen. Zwingende gesetzliche Ansprüche bleiben unberührt.
+
+## 9. Weitergabe und Änderungen
 
 Die aktuellen Release-Pakete dokumentieren:
 - 37 eingebettete MP3-Payloads aus Phazite Sounds unter der angegebenen CC0-1.0-Widmung;
