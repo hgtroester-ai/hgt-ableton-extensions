@@ -69,12 +69,14 @@ Available downloads:
 
 ---
 
-## About HGT
+## 8. About HGT
 
 **The only good system is a sound system.**
 
-**Music connects people.**
+Music connects people.
 
-Independent development and creative tools shared with the music community.
+Independent development, creative ideas and a passion for music.
 
-Free to use. Community supported.
+**HGT – Developed with passion. Shared freely.**
+
+Free to use. Independently developed.
