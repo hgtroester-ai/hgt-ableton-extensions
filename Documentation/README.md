@@ -35,6 +35,18 @@ Please save and back up your Ableton Live projects and related files regularly, 
 
 No guarantee of error-free or uninterrupted operation is provided. Liability for damages or data loss is excluded to the extent permitted by applicable law. Mandatory statutory rights remain unaffected.
 
+## Disclaimer
+
+The information provided in this repository, including documentation, licensing information and technical descriptions, is provided for general informational purposes.
+
+The HGT Ableton Extensions are provided "as is" and without any warranty, to the fullest extent permitted by applicable law.
+
+HGT does not guarantee uninterrupted operation, compatibility with all systems or freedom from errors. HGT accepts no liability for damages, project loss or data loss resulting from the use of the extensions, except where liability cannot legally be excluded.
+
+Users are responsible for ensuring that their use of the extensions and any generated material complies with applicable third-party licenses and legal requirements.
+
+Nothing in this disclaimer limits mandatory statutory rights.
+
 ## Important licensing note
 
 Each extension contains its own project license and third-party notices. The project-specific HGT license applies only to material HGT owns or controls. It does not replace or change third-party licenses, including the CC0 dedication for the identified Phazite sound assets or Ableton's Extensions SDK terms.
