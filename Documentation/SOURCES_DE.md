@@ -3,7 +3,7 @@
 **Aktuell dokumentierte Versionen**
 - Drum Construction Kit 0.7.0
 - Genre Remap 3.3.0
-- Genre Converter 9.6.2
+- Genre Converter 9.6.3
 
 Dieses Dokument fasst die Quellen und Kompatibilitätshinweise zusammen, die in den bereitgestellten Source-Paketen dieser Versionen dokumentiert sind. Die einzelnen Extension-Pakete enthalten jeweils eigene Dateien zu `LICENSE`, `SOUND-ASSETS` und `THIRD-PARTY-NOTICES`. Für release-spezifische Formulierungen sind diese Paketdateien maßgeblich.
 
